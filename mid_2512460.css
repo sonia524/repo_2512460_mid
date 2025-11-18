@@ -1,0 +1,28 @@
+body {
+    blackground color: white;
+    font family: Georgia , 'times new roman' , times , serif;
+}
+header {
+    background color: white;
+    color : pink;
+    text align: centre;
+    padding:6px
+    border radius:12px;
+}
+table{
+    border: 2px solid black
+    margin: 0px
+}
+
+th,tb {
+    background color:
+    padding:5px;
+    border radius: 6px
+    color: black;
+    text align: centre;
+
+}
+
+footer {
+
+}
